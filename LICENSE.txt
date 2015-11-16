@@ -1,3 +1,0 @@
-# On branch master
-# Added a LICENSE file
-# LICENSE contains nothing
