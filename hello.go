@@ -7,3 +7,4 @@ func main() {
 }
 
 //add discreption, git test
+//git has mutable index called stage.
